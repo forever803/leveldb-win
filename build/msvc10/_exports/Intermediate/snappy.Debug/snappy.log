@@ -1,0 +1,13 @@
+﻿  snappy.cc
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(253): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(282): warning C4244: “return”: 从“snappy::uint64”转换到“snappy::uint32”，可能丢失数据
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(818): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(833): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(913): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(926): warning C4018: “<=”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(934): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\desktop\leveldbwin\snappy_src\snappy.cc(937): warning C4018: “<”: 有符号/无符号不匹配
+  snappy-stubs-internal.cc
+  snappy-sinksource.cc
+  正在生成代码...
+  snappy.vcxproj -> C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\_exports\Debug\snappy_d.lib
