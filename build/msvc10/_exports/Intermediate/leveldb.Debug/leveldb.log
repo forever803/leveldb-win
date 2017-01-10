@@ -1,142 +1,143 @@
 ﻿  port_win32.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   env_win32.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
 c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
 c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
   testutil.cc
-c:\users\administrator\desktop\leveldbwin\leveldb_src\util\testutil.cc(43): warning C4018: “<”: 有符号/无符号不匹配
+d:\vsprojects\leveldbwin\leveldb_src\util\testutil.cc(43): warning C4018: “<”: 有符号/无符号不匹配
   testharness.cc
-c:\users\administrator\desktop\leveldbwin\leveldb_src\util\testharness.cc(41): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\administrator\desktop\leveldbwin\leveldb_src\util\testharness.cc(37): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\vsprojects\leveldbwin\leveldb_src\util\testharness.cc(41): warning C4018: “<”: 有符号/无符号不匹配
+d:\vsprojects\leveldbwin\leveldb_src\util\testharness.cc(37): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 参见“getenv”的声明
-c:\users\administrator\desktop\leveldbwin\leveldb_src\util\testharness.cc(68): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\vsprojects\leveldbwin\leveldb_src\util\testharness.cc(68): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: 参见“getenv”的声明
   status.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   options.cc
   logging.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   histogram.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   hash.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   env.cc
   crc32c.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   comparator.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   coding.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   cache.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   arena.cc
   two_level_iterator.cc
   table_builder.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   table.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   merger.cc
   iterator.cc
   正在生成代码...
   正在编译...
   format.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   block_builder.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   block.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   write_batch.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   version_set.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   version_edit.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   table_cache.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   repair.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   memtable.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   log_writer.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   log_reader.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   filename.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   db_iter.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   db_impl.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   dbformat.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   c.cc
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(91): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(91): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(148): note: 参见“_strdup”的声明
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(95): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(95): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(148): note: 参见“_strdup”的声明
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(200): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(200): warning C4996: '_strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(148): note: 参见“_strdup”的声明
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(345): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(350): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(355): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(421): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(426): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
-c:\users\administrator\desktop\leveldbwin\leveldb_src\db\c.cc(445): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(345): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(350): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(355): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(421): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(426): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\vsprojects\leveldbwin\leveldb_src\db\c.cc(445): warning C4800: “unsigned char”: 将值强制为布尔值“true”或“false”(性能警告)
   builder.cc
-c:\users\administrator\desktop\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
+d:\vsprojects\leveldbwin\win32_impl_src\port_win32.h(37): warning C4005: “va_copy”: 宏重定义
   d:\program files (x86)\microsoft visual studio 14.0\vc\include\stdarg.h(20): note: 参见“va_copy”的前一个定义
   正在生成代码...
-  leveldb.vcxproj -> C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.lib
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.lib
+  leveldb.vcxproj -> D:\vsprojects\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.lib
+  子目录或文件 D:\vsprojects\leveldbwin\build\msvc10\..\..\lib_leveldb_vc10\lib\Debug 已经存在。
+  D:\vsprojects\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.lib
   复制了 1 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.pdb
+  D:\vsprojects\leveldbwin\build\msvc10\_exports\Debug\leveldb_d.pdb
   复制了 1 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\c.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\cache.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\comparator.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\db.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\env.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\iterator.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\options.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\slice.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\status.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\table.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\table_builder.h
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\write_batch.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\c.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\cache.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\comparator.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\db.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\env.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\iterator.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\options.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\slice.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\status.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\table.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\table_builder.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\leveldb_src\include\leveldb\write_batch.h
   复制了 12 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\win32_impl_src\win32exports.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\win32_impl_src\win32exports.h
   复制了 1 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\win32_impl_src\stdint.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\win32_impl_src\stdint.h
   复制了 1 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\win32_impl_src\unistd.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\win32_impl_src\unistd.h
   复制了 1 个文件
-  C:\Users\Administrator\Desktop\leveldbwin\build\msvc10\..\..\win32_impl_src\leveldb.h
+  D:\vsprojects\leveldbwin\build\msvc10\..\..\win32_impl_src\leveldb.h
   复制了 1 个文件
